@@ -15,7 +15,6 @@ print('haha')
 
 print(c)
 
-i wannna eat mango
 
 
 
